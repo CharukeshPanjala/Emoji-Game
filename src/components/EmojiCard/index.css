@@ -1,0 +1,18 @@
+.emoji-list-container {
+  list-style: none;
+  background-color: #ffffff33;
+  border: 2px solid #ffffff30;
+  padding: 20px;
+  margin: 10px;
+  border-radius: 20px;
+  cursor: pointer;
+}
+.image {
+  width: 90px;
+}
+
+.button {
+  border: none;
+  background-color: transparent;
+  border-width: 0px;
+}
